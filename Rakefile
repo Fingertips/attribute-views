@@ -1,4 +1,5 @@
 require 'rake/testtask'
+require 'rake/rdoctask'
 
 task :default => :test
 
